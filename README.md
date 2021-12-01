@@ -1,4 +1,4 @@
-### Fazendo alguns desafios do site [CDDBatle](https://cssbattle.dev/)
+### Fazendo alguns desafios do site [CSSBatle](https://cssbattle.dev/)
 
 Feitos:
 Battle #8:</br>

@@ -5,5 +5,5 @@ Battle #8:</br>
   #42 - Baby</br>
 
 Battle #10:</br>
-  #47 - Corona Virus</br>
+  [#47 - Corona Virus](https://codepen.io/gblcintra/pen/MWEYeLa)</br>
 

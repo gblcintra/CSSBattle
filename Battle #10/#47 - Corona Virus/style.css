@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+  background: #1a4341;
+}
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.virus {
+  position: relative;
+}
+.line {
+  width: 180px;
+  height: 10px;
+  background: #f3ac3c;
+  border-radius: 50px;
+  position: absolute;
+}
+.one {
+  transform: rotate(90deg);
+  top: 35px;
+  left: -40px;
+}
+.two {
+  transform: rotate(30deg);
+  top: 50px;
+  left: -31px;
+}
+.tree {
+  transform: rotate(330deg);
+  top: 40px;
+  left: -31px;
+}
+.circle-virus {
+  width: 100px;
+  height: 100px;
+  background: #dd6b4d;
+  border-radius: 50px;
+  background: #f3ac3c;
+  position: relative;
+}
+.circle {
+  border-radius: 50px;
+  background: #998235;
+  position: absolute;
+}
+.l {
+  width: 30px;
+  height: 30px;
+  top: 20px;
+  left: 20px;
+}
+.m {
+  width: 20px;
+  height: 20px;
+  top: 65px;
+  left: 40px;
+}
+.s {
+  width: 10px;
+  height: 10px;
+  top: 20px;
+  left: 70px;
+}

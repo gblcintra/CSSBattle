@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+}
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #293462;
+}
+.box {
+    width: 200px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    background: #fe5f55;
+    border-radius: 100px 100px 50px 50px;
+    overflow: hidden;
+}
+.top {
+    display: flex;
+    height: 90px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+}
+.top .hair {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    bottom: 40px;
+    background-color: #fff1c1;
+    border-radius: 100px;
+}
+.top .hair.left {
+    left: 0;
+}
+.top .hair.right {
+    right: 0;
+}
+.middle {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.middle .eyes {
+    width: 60px;
+    height: 60px;
+    background-color: #fff1c1;
+    border-radius: 100px;
+}
+.buttom {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bottom .box-bottom div {
+    margin: auto;
+    width: 40px;
+    height: 10px;
+    margin-top: 20px;
+    background-color: #fff1c1;
+    border-color: #fff1c1;
+    border-radius: 5px;
+}

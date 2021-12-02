@@ -1,86 +1,22 @@
-<div class='content'>
-  <div class='circle'>
-    <div class='top'></div>
-    <div class='middle'></div>
-    <div class='bottom'></div>
-    <div class='center'>
-    	<div class='yellow'></div>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Pokeball</title>
+  </head>
+  <body>
+    <div class='content'>
+      <div class='circle'>
+        <div class='top'></div>
+        <div class='middle'></div>
+        <div class='bottom'></div>
+        <div class='center'>
+          <div class='yellow'></div>
+        </div>
+      </div>
     </div>
-  </div>
-</div>
-<style>
-  body{
-    margin:0;
-    background:#6CB3A9;
-  }
-  .content{
-    height: 100vh;
-    display:flex;
-    justify-content:center;
-    align-items:center
-  }
-  .circle {
-    width: 200px;
-    height: 200px;
-    margin-bottom:16px;
-    position:relative;
-  }
-  .top,
-  .bottom{
-    width: 200px;
-    height: 100px;
-    background: #D25B70;
-    border-radius:100px 100px 0 0;
-    position:relative
-  }
-  .top:after,
-  .bottom:after{
-    content:'';
-    background:#781728;
-    width:200px;
-    height: 10px;
-    position:absolute;
-    top:90px;
-  }
-  .bottom{
-    background: #FFFFFF;
-    border-radius:0 0 100px 100px ;
-  }
-  .bottom:after{
-	top:initial;
-    bottom:90px;
-}
-  .center{
-    width:70px;
-    height:70px;
-    display:flex;
-    justify-content:center;
-    align-items:center;
-    background:#781728;
-    position:absolute;
-    border-radius:50px;
-    top:65px;
-    left:65px;
-  }
-  .yellow{
-    width:50px;
-    height:50px;
-    background:#F6DF96;
-    border-radius:50px;
-  }
-   .center:after,
-  	.center:before{
-    content:'';
-    width:11px;
-    height: 20px;
-    position:absolute;
-    top:25px;
-    background:#6CB3A9
-  }
-  .center:after{
-    left:125px;
-  }
-  .center:before{
-    right:125px;
-  }
-</style>
+  </body>
+</html>

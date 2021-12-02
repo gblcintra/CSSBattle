@@ -2,7 +2,11 @@
 
 Feitos:
 Battle #4:</br>
-  [#22 - Cloud](https://codepen.io/gblcintra/pen/qBPdowq)
+  [#22 - Cloud](https://codepen.io/gblcintra/pen/qBPdowq)</br>
+
+Battle #7:</br>
+  [#37 - Tunnel](https://codepen.io/gblcintra/pen/GRMJdJG)
+
 Battle #8:</br>
   [#42 - Baby](https://codepen.io/gblcintra/pen/bGrvNMy)</br>
 

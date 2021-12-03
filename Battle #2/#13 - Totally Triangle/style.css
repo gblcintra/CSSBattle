@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  background: #0b2429;
+}
+div {
+  width: 0;
+  border-right: 141px solid transparent;
+  border-top: 141px solid #f3ac3c;
+}

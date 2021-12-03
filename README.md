@@ -1,6 +1,9 @@
 ### Fazendo alguns desafios do site [CSSBatle](https://cssbattle.dev/)
 
 Feitos:
+Battle #2:</br>
+  [#13 - Totally Triangle](https://codepen.io/gblcintra/pen/JjrYbzz)</br>
+
 Battle #4:</br>
   [#22 - Cloud](https://codepen.io/gblcintra/pen/qBPdowq)</br>
 

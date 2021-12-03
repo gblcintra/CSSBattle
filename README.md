@@ -5,7 +5,8 @@ Battle #4:</br>
   [#22 - Cloud](https://codepen.io/gblcintra/pen/qBPdowq)</br>
 
 Battle #7:</br>
-  [#37 - Tunnel](https://codepen.io/gblcintra/pen/GRMJdJG)
+  [#35 - Ice Cream](https://codepen.io/gblcintra/pen/QWqjEYZ)</br>
+  [#37 - Tunnel](https://codepen.io/gblcintra/pen/GRMJdJG)</br>
 
 Battle #8:</br>
   [#42 - Baby](https://codepen.io/gblcintra/pen/bGrvNMy)</br>

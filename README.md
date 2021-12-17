@@ -18,5 +18,8 @@ Battle #10:</br>
   [#47 - Corona Virus](https://codepen.io/gblcintra/pen/MWEYeLa)</br>
   [#48 - Wash Your Hands](https://codepen.io/gblcintra/pen/GRMoQLK)</br>
 
+Battle #15:</br>
+  [#81 - Odooo](https://codepen.io/gblcintra/pen/LYzyJWz)</br>
+
 Battle #16:</br>
   [#95 - Pokeball](https://codepen.io/gblcintra/pen/jOGEgYb)</br>

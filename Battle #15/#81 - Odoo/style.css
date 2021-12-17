@@ -1,0 +1,42 @@
+body{
+  margin:0;
+  background:#191919;
+}
+.content {
+  display:flex;
+  flex-direction: center;
+  align-items: center;
+  justify-content: center;
+  height:100vh
+}
+.circle{
+  width: 80px;
+  height: 80px;
+  background: #8F8F8F;
+  margin:0 1px -23px 1px;
+  border-radius:50px;
+  position:relative;
+}
+.circle:before{
+  content:'';
+  width:40px;
+  height:40px;
+  position: absolute;
+  top:25%;
+  left:25%;
+  border-radius:50px;
+  background:#191919;
+}
+.one{
+  background:#714B67;
+}
+.two:after{
+  content:'';
+  width:20px;
+  height:60px;
+  background:#8F8F8F;
+  position:absolute;
+  border-radius:20px;
+  bottom:50%;
+  right:0;
+}

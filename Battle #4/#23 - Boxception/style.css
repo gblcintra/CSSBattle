@@ -1,0 +1,35 @@
+body{
+  margin:0;
+  background:#F3AC3C
+}
+.content{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  height:100vh
+}
+.box{
+  display:flex;
+  width:200px;
+  height:200px;
+  position:relative;
+  background:#1A4341;
+}
+.box:before{
+  content:'';
+  width:100px;
+  height:100px;
+  position:absolute;
+  bottom:0;
+  left:0;
+  background:#998235;
+}
+.box:after{
+  content:'';
+  width:50px;
+  height:50px;
+  position:absolute;
+  bottom:0;
+  left:25%;
+  background:#F3AC3C;
+}

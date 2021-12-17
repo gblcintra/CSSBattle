@@ -6,6 +6,7 @@ Battle #2:</br>
 
 Battle #4:</br>
   [#22 - Cloud](https://codepen.io/gblcintra/pen/qBPdowq)</br>
+  [#23 - Boxception](https://codepen.io/gblcintra/pen/NWajLXQ)</br>
 
 Battle #7:</br>
   [#35 - Ice Cream](https://codepen.io/gblcintra/pen/QWqjEYZ)</br>
